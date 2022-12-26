@@ -1,0 +1,108 @@
+# Project information
+site_name: "Naad Bindu"
+site_description: "Dhrupad is the oldest and the purest form on Indian Classical Music."
+site_author: "Anil Kulkarni"
+site_url: "https://www.naadbindu.com"
+
+# Repository
+# repo_name: "octallium/website"
+# repo_url: "https://github.com/octallium/website"
+
+# Copyright
+copyright: "Copyright &copy; 2023 Indian School of Dhrupad. (Designed by Octallium.com)"
+
+# Configuration
+theme:
+  name: "material"
+  language: "en"
+  logo: "images/logo-favicon.png"
+  # logo:
+  #   icon: "queue_music"
+  favicon: "images/logo.png"
+  palette:
+    primary: "grey"
+    accent: "blue"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  # manifest: "manifest.webmanifest"
+  social:
+    # - type: "github"
+    #   link: "https://www.github.com/octallium"
+    # - type: "youtube"
+    #   link: "https://www.youtube.com/channel/UCEx4qP4PqDukN_EXMz4dC-Q"
+    # - type: "twitter"
+    #   link: "https://twitter.com/octallium"
+    # - type: "facebook"
+    #   link: "https://www.facebook.com/DhrupadOfficial"
+    # - type: "instagram"
+    #   link: "https://www.instagram.com/octallium"
+    # - type: "linkedin"
+    #   link: "https://www.linkedin.com/company/octallium"
+    # - type: "gratipay"
+    #   link: "https://www.octallium.com/"
+
+# Google Analytics
+google_analytics:
+  - "UA-156434112-1"
+  - "auto"
+
+# Plugins
+plugins:
+  - search
+  # - minify:
+  #     minify_html: true
+
+# Extensions
+markdown_extensions:
+  - meta
+  - admonition
+  - codehilite:
+      guess_lang: false
+      # linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Nav
+nav:
+  - Home: "index.md"
+  - About:
+      - "About Us": "about/about.md"
+  - Donate:
+      - Donation: "donate/donation.md"
+      - "Thank You": "donate/thankyou.md"
+  - "Dhrupad Festival":
+      - "Chembur Dhrupad Festival": "festival/chembur-fest.md"
+  - Articles:
+      - Grama: "articles/grama.md"
+  - Contact:
+      - Contact: "contact/contact.md"
+      - "Privacy Policy": "contact/privacy-policy.md"
+  #     - "About Me": "about/about-me.md"
+  #     - "Contributing Content": "about/contribution.md"
+  #     - Donate: "about/donate.md"
+  #     - Sponsorship: "about/sponsorship.md"
+  # - Contact:
+  #     - Connect: "contact/contact.md"
+  # - Subscribe:
+  #     - Subscribe: "subscribe.md"
