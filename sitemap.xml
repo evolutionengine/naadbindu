@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.naadbindu.com/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/about/about/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/articles/grama/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/contact/contact/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/contact/privacy-policy/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.naadbindu.com/contact/terms_conditions/</loc>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/donate/donation/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/donate/thankyou/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.naadbindu.com/festival/chembur-fest/</loc>
-         <lastmod>2022-12-26</lastmod>
+         <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
