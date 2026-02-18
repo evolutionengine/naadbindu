@@ -1,9 +1,22 @@
 title: Welcome to Naad Bindu!
 description: Dhrupad is the oldest and the purest form of Indian Classical Music.
 
-# Welcome!
+# Welcome
 
-![Banner](./images/ragamala.jpg)
+<a href="festival/chembur-fest-2026.md"><img src="./images/naadbindu2026.jpeg" alt="Chembur Dhrupad Festival 2026" style="max-width: 550px; display: block; margin: 0 auto;" /></a>
+
+## Please consider a donation
+
+<img src="./images/upi-qr.png" alt="Scan to pay" style="max-width: 250px; display: block; margin: 0 auto;" />
+
+---
+
+!!! note "Chembur Dhrupad Festival 2026"
+    We are happy to announce the **Chembur Dhrupad Festival 2026** on **1st March 2026** at **Bal Vikas Sangh, Chembur, Mumbai** — in memory of **Ustad Z.M. Dagar** & **Ustad Z.F. Dagar**. Featuring **Pt Ritwik Sanyal** (Dhrupad Vocal), **Shri S. Balachander** (Chandraveena) and **Pt Sanjay Agle** (Pakawaj). Free entry for all!
+
+    [Read more &rarr;](festival/chembur-fest-2026.md)
+
+---
 
 ## Dhrupad - An Introduction
 
@@ -47,7 +60,7 @@ Yoga has to be understood first as it form the basis of discussion -
     yogaś citta-vṛtti-nirodhaḥ
     — Yoga Sutras 1.2
 
-What it means is, in essence, __Yoga is the natural cessation (nirodhaḥ) of the modifications (vṛtti) of the mind (citta)__. There are various methodologies of achieving this state, e.g Ashtang Yoga, Hath Yoga, Naad Yoga, etc.
+What it means is, in essence, **Yoga is the natural cessation (nirodhaḥ) of the modifications (vṛtti) of the mind (citta)**. There are various methodologies of achieving this state, e.g Ashtang Yoga, Hath Yoga, Naad Yoga, etc.
 
 ### Naad
 
@@ -74,6 +87,6 @@ According to the Nāṭyaśāstra chapter 6.15, the eight sentiments (rasa) reco
 
 While Dhrupad explores all types of rasa, but often hāsya (Humor), bhayānaka (Terrible) and bībhatsa (Odious) are left out for obvious reasons.
 
-This is one aspect that makes Dhrupad or Indian Classical Music rather unique, the artist is free to improvise and explore any rasa while maintaining the sanity of the raag. 
+This is one aspect that makes Dhrupad or Indian Classical Music rather unique, the artist is free to improvise and explore any rasa while maintaining the sanity of the raag.
 
 Thus any one raaga can be often presented in multiple rasas, all depending on the artist and every expression is equally valid!

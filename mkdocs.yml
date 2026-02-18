@@ -92,9 +92,14 @@ nav:
       - Donation: "donate/donation.md"
       - "Thank You": "donate/thankyou.md"
   - "Dhrupad Festival":
-      - "Chembur Dhrupad Festival": "festival/chembur-fest.md"
+      - "Chembur Dhrupad Festival 2026": "festival/chembur-fest-2026.md"
+      - "Chembur Dhrupad Festival 2025": "festival/chembur-fest-2025.md"
+      - "Chembur Dhrupad Festival 2020": "festival/chembur-fest.md"
   - Articles:
-      - Grama: "articles/grama.md"
+      - "The Dagar Tradition": "articles/dagarvani.md"
+      - "Instruments of Dhrupad": "articles/instruments.md"
+      - "The Four Vanis": "articles/vanis.md"
+      - "The Grama System": "articles/grama.md"
   - Contact:
       - Contact: "contact/contact.md"
       - "Privacy Policy": "contact/privacy-policy.md"

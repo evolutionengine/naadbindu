@@ -13,8 +13,8 @@ Please note that this a free event and everyone are invited, also we would appre
 
 ### Donate
 
-You can donate any desired amount by clicking the following button - 
+You can donate any desired amount by scanning the QR code below -
 
-<div class='pm-button'><a href='https://www.payumoney.com/paybypayumoney/#/F0EA8D9534AB33D8712FE931488EE5CF'><img src='https://www.payumoney.com/media/images/payby_payumoney/new_buttons/22.png' /></a></div> 
+<img src="../../images/upi-qr.png" alt="Scan to pay" style="max-width: 250px; display: block; margin: 0 auto;" />
 
-(_Please use Chrome, currently Firefox and Safari are not supported._)
+**UPI ID:** anil.kulkarni@okicici
